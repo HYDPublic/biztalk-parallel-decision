@@ -1,0 +1,4 @@
+<ns0:Sourcing xmlns:ns0="http://ApprovalPoc.Sourcing">
+  <IsHRApproval>true</IsHRApproval> 
+  <IsFinanceApproval>false</IsFinanceApproval> 
+  </ns0:Sourcing>
